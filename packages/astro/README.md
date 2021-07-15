@@ -136,6 +136,7 @@ Our goal is to support all popular state management libraries, as long as there 
   - [x] **Svelte Stores: Full Support**
 - **Vue:**
   - [ ] **Vuex: Partial Support** (Note: You can access a vuex store directly, but full `vuex` support requires the ability to set a custom `vue.use(store)` call to every component island. Planned.)
+- **MobX** 
 
 _Are we missing your favorite state management library? Add it to the list above in a PR (or create an issue)!_
 
